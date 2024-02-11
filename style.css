@@ -7,7 +7,8 @@
 
 .main-header {
     height: 150px;
-    background: #991b3a;
+    background: -webkit-linear-gradient(90deg, #991b3a,#cb2a52,#95092c);
+    background: linear-gradient(90deg, #991b3a,#cb2a52,#95092c);                                          
     color: #fff;
 }
 
@@ -47,7 +48,8 @@
 .first-content {
     justify-content: space-between;
     padding: 5px 0px 5px 0px;
-    background-color: #991b3a;
+    background: -webkit-linear-gradient(90deg, #991b3a,#cb2a52,#95092c);
+    background: linear-gradient(90deg, #991b3a,#cb2a52,#95092c);  
     min-width: max-content;
     position: relative;
 }
@@ -253,7 +255,8 @@ ul {
 }
 
 .footer {
-    background: #991b3a;
+    background: -webkit-linear-gradient(90deg, #991b3a,#cb2a52,#95092c);
+    background: linear-gradient(90deg, #991b3a,#cb2a52,#95092c);                                           
     right: 0;
     bottom: 0;
     width: 100%;
